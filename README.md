@@ -38,7 +38,7 @@ I build scalable, user‑centric web applications with modern stacks like MERN a
 ## 🚀 Featured Projects
 
 ### **🧠 AI‑Powered Interview Platform**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/asrath11/ai-interview-platform) | [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?logo=vercel)](https://ai-interview-platform.vercel.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/asrath11/ai-interviewer) | [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?logo=vercel)](https://ai-interviewer-nine-lovat.vercel.app/)  
 *Next.js 15 | TypeScript | Tailwind | Prisma | PostgreSQL | NextAuth | Hume AI | OpenAI/Google AI*
 
 An intelligent mock‑interview platform that conducts real‑time voice‑based interviews with AI, parses resumes, generates personalized questions, and provides analytics.
@@ -52,7 +52,7 @@ An intelligent mock‑interview platform that conducts real‑time voice‑based
 ---
 
 ### **🍽 Restaurant Room Booking System**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/asrath11/restaurant-booking-system) | [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?logo=render)](https://restaurant-booking-system.onrender.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/asrath11/fliq-fun-with-sql) | [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?logo=render)](https://restrobooking-frontend.onrender.com/)  
 *React | Node.js | Express | PostgreSQL | Prisma | Razorpay*
 
 A full‑stack reservation system with custom time‑slot bookings, built with clean MVC architecture and payment integration.
