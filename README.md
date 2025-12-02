@@ -52,7 +52,7 @@ An intelligent mock‑interview platform that conducts real‑time voice‑based
 ---
 
 ### **🍽 Restaurant Room Booking System**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/asrath11/fliq-fun-with-sql) | [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?logo=render)](https://restrobooking-frontend.onrender.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/asrath11/Restrobooking) | [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?logo=render)](https://restrobooking-frontend.onrender.com/)  
 *React | Node.js | Express | PostgreSQL | Prisma | Razorpay*
 
 A full‑stack reservation system with custom time‑slot bookings, built with clean MVC architecture and payment integration.
