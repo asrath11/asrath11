@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jishnu  
+# 👋 Hi, I'm Asrath 
 **Aspiring Full Stack Developer | MCA Student @ Lovely Professional University**
 
 I build scalable, user‑centric web applications with modern stacks like MERN and Next.js. Passionate about clean architecture, performance, and intuitive UI/UX.
@@ -38,6 +38,7 @@ I build scalable, user‑centric web applications with modern stacks like MERN a
 ## 🚀 Featured Projects
 
 ### **🧠 AI‑Powered Interview Platform**  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/asrath11/ai-interview-platform) | [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?logo=vercel)](https://ai-interview-platform.vercel.app)  
 *Next.js 15 | TypeScript | Tailwind | Prisma | PostgreSQL | NextAuth | Hume AI | OpenAI/Google AI*
 
 An intelligent mock‑interview platform that conducts real‑time voice‑based interviews with AI, parses resumes, generates personalized questions, and provides analytics.
@@ -51,6 +52,7 @@ An intelligent mock‑interview platform that conducts real‑time voice‑based
 ---
 
 ### **🍽 Restaurant Room Booking System**  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/asrath11/restaurant-booking-system) | [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?logo=render)](https://restaurant-booking-system.onrender.com)  
 *React | Node.js | Express | PostgreSQL | Prisma | Razorpay*
 
 A full‑stack reservation system with custom time‑slot bookings, built with clean MVC architecture and payment integration.
@@ -78,13 +80,3 @@ A full‑stack reservation system with custom time‑slot bookings, built with c
 *"Turning ideas into scalable, user‑focused digital experiences."*  
 
 > ⭐ **Feel free to explore my repositories and connect!**
-
----
-
-## 📊 GitHub Stats
-
-![Jishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asrath11&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asrath11&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=asrath11&theme=radical)
