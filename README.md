@@ -37,10 +37,5 @@ Currently open to opportunities in **Full Stack / Backend / Software Engineer** 
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pj-asrath/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asrath.pj@gmail.com)
 
----
-
-## 💡 Fun Fact
-
-> Turning ideas into scalable, user-focused digital experiences. 🚀
