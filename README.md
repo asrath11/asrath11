@@ -20,6 +20,7 @@ Currently open to opportunities in **Full Stack / Backend / Software Engineer** 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![shadcn/ui](https://img.shields.io/badge/shadcn.ui-000000?style=flat-square&logo=shadcn)
 
 ### 🛢️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -30,33 +31,6 @@ Currently open to opportunities in **Full Stack / Backend / Software Engineer** 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 ![Railway](https://img.shields.io/badge/Railway-000?style=flat-square&logo=railway)
-
----
-
-## 📊 GitHub Stats
-
-![asrath11's GitHub stats](https://github-readme-stats.vercel.app/api?username=asrath11&show_icons=true&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 **AI-Powered Interview Platform**
-🔗 Live Demo • 📦 Repo  
-Next.js | TypeScript | Tailwind | Prisma | PostgreSQL | NextAuth | Hume AI  
-A platform to practice technical interviews with AI-driven voice interaction, analytics, and job management.
-
-### 🔹 **Real-Time Chat Application**
-🔗 Live Demo • 📦 Repo  
-MERN | Socket.IO | JWT | TypeScript | Tailwind  
-A real-time chat app with group/private messaging, typing/read presence, and secure authentication.
-
-### 🔹 **Restaurant Booking & Payments**
-📦 Repo  
-React | Node.js | PostgreSQL | Prisma | Razorpay  
-Reservation system with time slot booking and payment integration.
-
-> 👉 Check my **Pinned Repositories** for more.
 
 ---
 
