@@ -7,8 +7,6 @@ Currently open to opportunities in **Full Stack / Backend / Software Engineer** 
 
 🚀 I’m passionate about solving real problems with code, writing maintainable systems, and constantly improving my craft.
 
----
-
 ## 🔥 Technologies & Tools
 
 ### 🧠 Backend
@@ -31,8 +29,6 @@ Currently open to opportunities in **Full Stack / Backend / Software Engineer** 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 ![Railway](https://img.shields.io/badge/Railway-000?style=flat-square&logo=railway)
-
----
 
 ## 📫 Let’s Connect
 
