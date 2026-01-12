@@ -7,7 +7,7 @@ Currently open to opportunities in **Full Stack / Backend / Software Engineer** 
 
 🚀 I’m passionate about solving real problems with code, writing maintainable systems, and constantly improving my craft.
 
-## 🔥 Technologies & Tools
+## 🚀 Technical Expertise
 
 ### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
