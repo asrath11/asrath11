@@ -1,4 +1,4 @@
-# 👋 Hi, I’m P.J. Asrath
+# 👋 Hi, I’m Asrath
 
 ### 📌 Full Stack Developer (MERN + Full Stack JavaScript)
 
